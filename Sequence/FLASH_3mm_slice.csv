@@ -1,0 +1,40 @@
+Acquisition Length,[7.6]
+Acquisition Number,1
+Acquisition Start,[6.6]
+Averaging,4
+Loop Type,A
+Oblique Angle,"[0, 0]"
+Offset,"[-0.2, 0.03, -0.05, 0.0]"
+Phase Amplitude,[2.0]
+Phase Length,[1.6]
+Phase Lobes Amplitude,[0.0]
+Phase Lobes Length,[0.0]
+Phase Number,1
+Phase Start,[4.6]
+Phase Steps,128
+Pulse Angle,[90.0]
+Pulse Frequency,7099000
+Pulse Length,[4.0]
+Pulse Number,1
+Pulse Start,[0.2]
+Pulse Value 90,0.06
+Read Amplitude,"[-1.5166666666666666, 0.7]"
+Read Length,"[1.6, 7.6]"
+Read Lobes Amplitude,"[0.0, 0.0]"
+Read Lobes Length,"[0.0, 0.0]"
+Read Number,2
+Read Start,"[4.6, 6.6]"
+Rise Time,0.2
+Sequence Mode,Multi Slice
+Sequence Type,Gradient Echo
+Slice Amplitude,"[3.0, -3.5000000000000004]"
+Slice Length,"[4.0, 1.6]"
+Slice Lobes Amplitude,"[0, 0.0]"
+Slice Lobes Length,"[0, 0.0]"
+Slice Number,2
+Slice Start,"[0.2, 4.6000000000000005]"
+Slice Steps,7
+Slice Thickness,1500
+TE,7.6
+TI,1.0
+TR,300

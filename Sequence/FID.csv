@@ -1,0 +1,40 @@
+Acquisition Length,[20.0]
+Acquisition Number,1
+Acquisition Start,[2.6]
+Averaging,1
+Loop Type,A
+Oblique Angle,"[0, 0]"
+Offset,"[0.0, 0.0, 0.0, 0.0]"
+Phase Amplitude,[0]
+Phase Length,[0]
+Phase Lobes Amplitude,[0.0]
+Phase Lobes Length,[0.0]
+Phase Number,1
+Phase Start,[0]
+Phase Steps,1
+Pulse Angle,[90.0]
+Pulse Frequency,6386600
+Pulse Length,[2.0]
+Pulse Number,1
+Pulse Start,[0.2]
+Pulse Value 90,0.7999999999999999
+Read Amplitude,[0]
+Read Length,[0]
+Read Lobes Amplitude,[0.0]
+Read Lobes Length,[0.0]
+Read Number,1
+Read Start,[0]
+Rise Time,0.2
+Sequence Mode,
+Sequence Type,FID
+Slice Amplitude,[0]
+Slice Length,[0]
+Slice Lobes Amplitude,[0]
+Slice Lobes Length,[0]
+Slice Number,1
+Slice Start,[0]
+Slice Steps,1
+Slice Thickness,700
+TE,7.2
+TI,1.0
+TR,300

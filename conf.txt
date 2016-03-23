@@ -1,0 +1,5 @@
+Pulse Amplitude : 0.100000
+Pulse Frequency : 7100000
+Offset Grad X : 0.000000
+Offset Grad Y : 0.000000
+Offset Grad Z : 0.000000
